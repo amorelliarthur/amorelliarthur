@@ -3,10 +3,10 @@
 
 🏗️  Software Engineer construindo sistemas escaláveis e de fácil manutenção <br/>
 🧩  Especializado em arquitetura de microsserviços e comunicação entre serviços <br/>
-⚡  Do síncrono ao event-driven — escolho o padrão certo para cada problema <br/>
+⚡  Do síncrono ao event-driven - escolho o padrão certo para cada problema <br/>
 🔍  Foco em segurança, observabilidade e código limpo em produção <br/>
-📚  Atualmente estudando AWS Cloud e sistemas distribuídos <br/>
-💻  Resolvo problemas complexos e boas decisões de arquitetura <br/>
+📜  AWS Certified Cloud Practitioner <br/>
+💻  Resolvo problemas complexos com boas decisões de arquitetura <br/>
 
 ---
 
